@@ -4,15 +4,11 @@ To start the app use Docker. It will start both frontend and backend, including 
 
 Please find more info about each part in the relevant Readme file ([frontend](frontend/readme.md) and [backend](backend/README.md)).
 
-## Development
-
-When implementing a new feature or fixing a bug, please create a new pull request against `main` from a feature/bug branch and add `@vanessa-cooper` as reviewer.
-
 ## First setup
 
 Follow the steps to setup Anythink Market in your system :-
 
-1. Clone the repo into your local 
+1. Clone the repo into your local machine
 
     `git clone https://github.com/ObelusFamily/Anythink-Market-9xdxa.git`
 2. [Install Docker](https://docs.docker.com/get-docker/) 🐋
